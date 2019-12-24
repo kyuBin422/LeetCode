@@ -124,7 +124,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="assignment1.cpp" />
+    <ClCompile Include="assignment11.cpp" />
     <ClCompile Include="assignment1281.cpp" />
+    <ClCompile Include="assignment15.cpp" />
     <ClCompile Include="assignment167.cpp" />
     <ClCompile Include="assignment2.cpp" />
     <ClCompile Include="assignment4.cpp" />

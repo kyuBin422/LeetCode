@@ -25,9 +25,9 @@ public:
 
 	}
 };
-int main() {
-	Solution ss;
-	int a[] = { 3, 2, 4 };
-	vector<int> nums(a, a + 3);
-	vector <int> loc = ss.twoSum(nums, 6);
-}
+//int main() {
+//	Solution ss;
+//	int a[] = { 3, 2, 4 };
+//	vector<int> nums(a, a + 3);
+//	vector <int> loc = ss.twoSum(nums, 6);
+//}
