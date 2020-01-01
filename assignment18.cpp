@@ -45,12 +45,12 @@ public:
 	}
 };
 
-int main() {
-	int a[] = { -3,-2,-1,0,0,1,2,3 };
-	vector<int> nums(a, a + size(a));
-	int target = 0;
-	Solution ss;
-	vector<vector<int>> result = ss.fourSum(nums, target);
-	;
-
-}
+//int main() {
+//	int a[] = { -3,-2,-1,0,0,1,2,3 };
+//	vector<int> nums(a, a + size(a));
+//	int target = 0;
+//	Solution ss;
+//	vector<vector<int>> result = ss.fourSum(nums, target);
+//	;
+//
+//}
