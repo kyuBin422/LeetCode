@@ -126,6 +126,7 @@
     <ClCompile Include="assignment1.cpp" />
     <ClCompile Include="assignment11.cpp" />
     <ClCompile Include="assignment1281.cpp" />
+    <ClCompile Include="assignment138.cpp" />
     <ClCompile Include="assignment15.cpp" />
     <ClCompile Include="assignment16.cpp" />
     <ClCompile Include="assignment167.cpp" />
@@ -134,6 +135,8 @@
     <ClCompile Include="assignment26.cpp" />
     <ClCompile Include="assignment27.cpp" />
     <ClCompile Include="assignment31.cpp" />
+    <ClCompile Include="assignment33.cpp" />
+    <ClCompile Include="assignment34.cpp" />
     <ClCompile Include="assignment4.cpp" />
     <ClCompile Include="assignmentLCP1.cpp" />
   </ItemGroup>
