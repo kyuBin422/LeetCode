@@ -137,6 +137,7 @@
     <ClCompile Include="assignment31.cpp" />
     <ClCompile Include="assignment33.cpp" />
     <ClCompile Include="assignment34.cpp" />
+    <ClCompile Include="assignment35.cpp" />
     <ClCompile Include="assignment4.cpp" />
     <ClCompile Include="assignmentLCP1.cpp" />
   </ItemGroup>
