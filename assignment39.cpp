@@ -34,10 +34,10 @@ public:
 };
 
 
-int main() {
-	int a[] = { 1,3,5,6 };
-	vector<int> candidates(a, a + size(a));
-	Solution ss;
-	vector<vector<int>> result = ss.combinationSum(candidates, 2);
-	return 0;
-}
+//int main() {
+//	int a[] = { 1,3,5,6 };
+//	vector<int> candidates(a, a + size(a));
+//	Solution ss;
+//	vector<vector<int>> result = ss.combinationSum(candidates, 2);
+//	return 0;
+//}
