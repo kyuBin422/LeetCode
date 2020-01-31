@@ -125,7 +125,11 @@
   <ItemGroup>
     <ClCompile Include="assignment1.cpp" />
     <ClCompile Include="assignment11.cpp" />
+    <ClCompile Include="assignment118.cpp" />
+    <ClCompile Include="assignment119.cpp" />
+    <ClCompile Include="assignment121.cpp" />
     <ClCompile Include="assignment1281.cpp" />
+    <ClCompile Include="assignment13.cpp" />
     <ClCompile Include="assignment138.cpp" />
     <ClCompile Include="assignment15.cpp" />
     <ClCompile Include="assignment16.cpp" />
