@@ -141,6 +141,8 @@
     <ClCompile Include="assignment4.cpp" />
     <ClCompile Include="assignment41.cpp" />
     <ClCompile Include="assignment53.cpp" />
+    <ClCompile Include="assignment66.cpp" />
+    <ClCompile Include="assignment88.cpp" />
     <ClCompile Include="assignmentLCP1.cpp" />
     <ClCompile Include="assignment39.cpp" />
     <ClCompile Include="assignment40.cpp" />
