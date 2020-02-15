@@ -111,11 +111,11 @@ private:
 		}
 	}
 };
-int main() {
-	string s = "MDLXX";
-	cout << s[0] << endl;
-	Solution ss;
-	int result = ss.romanToInt(s);
-	cout << result << endl;
-
-}
+//int main() {
+//	string s = "MDLXX";
+//	cout << s[0] << endl;
+//	Solution ss;
+//	int result = ss.romanToInt(s);
+//	cout << result << endl;
+//
+//}
