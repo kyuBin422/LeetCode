@@ -35,10 +35,10 @@ public:
 	}
 };
 
-int main() {
-	string a = "([)";
-	Solution ss;
-	bool result = ss.isValid(a);
-	cout << result << endl;
-
-}
+//int main() {
+//	string a = "([)";
+//	Solution ss;
+//	bool result = ss.isValid(a);
+//	cout << result << endl;
+//
+//}
