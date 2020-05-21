@@ -92,10 +92,10 @@ public:
 	}
 };
 
-int main() {
-	int a[] = { 5,2,3,1 };
-	Solution ss;
-	vector<int> nums(a, a + size(a));
-	vector<int> result = ss.sortArray(nums);
-	return 0;
-}
+//int main() {
+//	int a[] = { 5,2,3,1 };
+//	Solution ss;
+//	vector<int> nums(a, a + size(a));
+//	vector<int> result = ss.sortArray(nums);
+//	return 0;
+//}

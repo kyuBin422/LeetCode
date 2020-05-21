@@ -87,6 +87,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -124,6 +125,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="assignment1.cpp" />
+    <ClCompile Include="assignment1025.cpp" />
     <ClCompile Include="assignment11.cpp" />
     <ClCompile Include="assignment118.cpp" />
     <ClCompile Include="assignment119.cpp" />
@@ -145,10 +147,13 @@
     <ClCompile Include="assignment33.cpp" />
     <ClCompile Include="assignment34.cpp" />
     <ClCompile Include="assignment35.cpp" />
+    <ClCompile Include="assignment392.cpp" />
     <ClCompile Include="assignment4.cpp" />
     <ClCompile Include="assignment41.cpp" />
     <ClCompile Include="assignment53.cpp" />
     <ClCompile Include="assignment66.cpp" />
+    <ClCompile Include="assignment70.cpp" />
+    <ClCompile Include="assignment746.cpp" />
     <ClCompile Include="assignment88.cpp" />
     <ClCompile Include="assignment912.cpp" />
     <ClCompile Include="assignmentLCP1.cpp" />
