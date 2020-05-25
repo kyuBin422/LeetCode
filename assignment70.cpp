@@ -58,9 +58,9 @@ public:
 	}
 };
 
-int main()
-{
-	Solution ss;
-	std::cout << ss.climbStairs(6);
-	return 0;
-}
+//int main()
+//{
+//	Solution ss;
+//	std::cout << ss.climbStairs(6);
+//	return 0;
+//}
