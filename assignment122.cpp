@@ -15,10 +15,10 @@ public:
 	}
 };
 
-int main()
-{
-	Solution ss;
-	int stock_price[] = { 7,1,5,3,6,4 };
-	vector<int> prices(stock_price, stock_price + size(stock_price));
-	cout << ss.maxProfit(prices) << endl;
-}
+//int main()
+//{
+//	Solution ss;
+//	int stock_price[] = { 7,1,5,3,6,4 };
+//	vector<int> prices(stock_price, stock_price + size(stock_price));
+//	cout << ss.maxProfit(prices) << endl;
+//}

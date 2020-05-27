@@ -131,10 +131,13 @@
     <ClCompile Include="assignment119.cpp" />
     <ClCompile Include="assignment121.cpp" />
     <ClCompile Include="assignment122.cpp" />
+    <ClCompile Include="assignment124.cpp" />
     <ClCompile Include="assignment1281.cpp" />
     <ClCompile Include="assignment13.cpp" />
+    <ClCompile Include="assignment136.cpp" />
     <ClCompile Include="assignment138.cpp" />
     <ClCompile Include="assignment14.cpp" />
+    <ClCompile Include="assignment146.cpp" />
     <ClCompile Include="assignment15.cpp" />
     <ClCompile Include="assignment16.cpp" />
     <ClCompile Include="assignment167.cpp" />
