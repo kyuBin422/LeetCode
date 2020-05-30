@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -127,6 +127,7 @@
     <ClCompile Include="assignment1.cpp" />
     <ClCompile Include="assignment1025.cpp" />
     <ClCompile Include="assignment11.cpp" />
+    <ClCompile Include="assignment1108.cpp" />
     <ClCompile Include="assignment118.cpp" />
     <ClCompile Include="assignment119.cpp" />
     <ClCompile Include="assignment121.cpp" />
@@ -134,11 +135,15 @@
     <ClCompile Include="assignment124.cpp" />
     <ClCompile Include="assignment1281.cpp" />
     <ClCompile Include="assignment13.cpp" />
+    <ClCompile Include="assignment1313.cpp" />
     <ClCompile Include="assignment136.cpp" />
+    <ClCompile Include="assignment1365.cpp" />
     <ClCompile Include="assignment138.cpp" />
     <ClCompile Include="assignment14.cpp" />
+    <ClCompile Include="assignment1431.cpp" />
     <ClCompile Include="assignment146.cpp" />
     <ClCompile Include="assignment15.cpp" />
+    <ClCompile Include="assignment155.cpp" />
     <ClCompile Include="assignment16.cpp" />
     <ClCompile Include="assignment167.cpp" />
     <ClCompile Include="assignment18.cpp" />
@@ -147,6 +152,7 @@
     <ClCompile Include="assignment26.cpp" />
     <ClCompile Include="assignment27.cpp" />
     <ClCompile Include="assignment28.cpp" />
+    <ClCompile Include="assignment283.cpp" />
     <ClCompile Include="assignment31.cpp" />
     <ClCompile Include="assignment33.cpp" />
     <ClCompile Include="assignment34.cpp" />
