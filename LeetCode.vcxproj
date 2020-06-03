@@ -132,6 +132,7 @@
     <ClCompile Include="assignment119.cpp" />
     <ClCompile Include="assignment121.cpp" />
     <ClCompile Include="assignment122.cpp" />
+    <ClCompile Include="assignment1221.cpp" />
     <ClCompile Include="assignment124.cpp" />
     <ClCompile Include="assignment1281.cpp" />
     <ClCompile Include="assignment1295.cpp" />
@@ -143,12 +144,15 @@
     <ClCompile Include="assignment1379.cpp" />
     <ClCompile Include="assignment138.cpp" />
     <ClCompile Include="assignment1389.cpp" />
+    <ClCompile Include="assignment1395.cpp" />
     <ClCompile Include="assignment14.cpp" />
     <ClCompile Include="assignment1431.cpp" />
     <ClCompile Include="assignment146.cpp" />
     <ClCompile Include="assignment1460.cpp" />
     <ClCompile Include="assignment1464.cpp" />
     <ClCompile Include="assignment1465.cpp" />
+    <ClCompile Include="assignment1466.cpp" />
+    <ClCompile Include="assignment1467.cpp" />
     <ClCompile Include="assignment15.cpp" />
     <ClCompile Include="assignment155.cpp" />
     <ClCompile Include="assignment16.cpp" />
@@ -156,6 +160,7 @@
     <ClCompile Include="assignment18.cpp" />
     <ClCompile Include="assignment2.cpp" />
     <ClCompile Include="assignment20.cpp" />
+    <ClCompile Include="assignment202.cpp" />
     <ClCompile Include="assignment26.cpp" />
     <ClCompile Include="assignment27.cpp" />
     <ClCompile Include="assignment28.cpp" />

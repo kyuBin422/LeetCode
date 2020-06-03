@@ -27,15 +27,15 @@ public:
 	}
 };
 
-int main()
-{
-	int horizontalCuts2vector[] = { 3,1 };
-	int verticalCuts2vector[] = { 1 };
-	vector<int> horizontalCuts(horizontalCuts2vector, horizontalCuts2vector + size(horizontalCuts2vector));
-	vector<int> verticalCuts(verticalCuts2vector, verticalCuts2vector + size(verticalCuts2vector));
-	int h = 1000000000;
-	int w = 1000000000;
-	Solution ss;
-	cout << ss.maxArea(h, w, horizontalCuts, verticalCuts);
-	return 0;
-};
+//int main()
+//{
+//	int horizontalCuts2vector[] = { 3,1 };
+//	int verticalCuts2vector[] = { 1 };
+//	vector<int> horizontalCuts(horizontalCuts2vector, horizontalCuts2vector + size(horizontalCuts2vector));
+//	vector<int> verticalCuts(verticalCuts2vector, verticalCuts2vector + size(verticalCuts2vector));
+//	int h = 1000000000;
+//	int w = 1000000000;
+//	Solution ss;
+//	cout << ss.maxArea(h, w, horizontalCuts, verticalCuts);
+//	return 0;
+//};
