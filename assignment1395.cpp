@@ -55,8 +55,8 @@ public:
 //	}
 };
 
-int main() {
-	vector<int>rating{ 2,5,3,4,1 };
-	Solution ss;
-	cout << ss.numTeams(rating);
-}
+//int main() {
+//	vector<int>rating{ 2,5,3,4,1 };
+//	Solution ss;
+//	cout << ss.numTeams(rating);
+//}
